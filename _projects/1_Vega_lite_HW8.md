@@ -11,12 +11,7 @@ custom_js:
 ---
 
 
-## Building Dataset
-
-Let's look at the plots and analysis below
-
-
-## Simple Plot on how Congressmen and the number of buildings made under them
+## Simple Plot on how Congressmen 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/bar_chart.json" style="width: 100%"></vegachart>
 
@@ -42,12 +37,12 @@ This chart is like a quick guide for understanding the variety of licenses in a 
 
 
 
-## Interactive plot on Usage Description and Square Footage of it
+## Interactive plot on Usage 
 
 
 
 
-<vegachart schema-url="{{ site.baseurl }}../assets/json/selected_chart.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/selected_chart.json" style="width: 100%"></vegachart>
 
 
 In this visualization, I've depicted a bar chart encoding, representing License Type on the x-axis, license count on the y-axis. Think of it as a snapshot of the licenses landscape, with each bar representing a different type of license, colored encoded on its status (active, expired etc). The height of each bar indicates the count of licenses for a particular type, offering a clear visual comparison. I've chosen a combination of dropdown menus for License Type and License Status, allowing you to dynamically explore the data.
