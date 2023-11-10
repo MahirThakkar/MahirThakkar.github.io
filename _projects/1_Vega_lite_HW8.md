@@ -12,7 +12,7 @@ custom_js:
 
 ## Simple Plot on how Congressmen - AA
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/bar_chart.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/bar_chart1.json" style="width: 100%"></vegachart>
 
 I made this visualization to simplify the license types' distribution, showing a condensed yet clear picture. My Visualization uses a bar chart encoding, where each type of license gets its own bar. Think of it like a straightforward bar chart, where each bar represents a license type, and its height shows how many licenses there are.
 
