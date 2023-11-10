@@ -10,7 +10,9 @@ custom_js:
   - justcharts
 ---
 
-## Simple Plot on how Congressmen - AA
+## Welcome
+
+## Bar Plot on Licenses
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/bar_chart1.json" style="width: 100%"></vegachart>
 
@@ -28,7 +30,7 @@ This chart is like a quick guide for understanding the variety of licenses in a 
   {% include elements/button.html link="https://github.com/MahirThakkar/MahirThakkar.github.io/blob/main/python_notebooks/Mahir_HW8_IS445.ipynb" text="The Analysis" %}
 </div>
 
-## Interactive plot on Usage
+## Interactive plot on License type and status
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/selected_chart.json" style="width: 100%"></vegachart>
 
